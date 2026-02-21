@@ -64,6 +64,13 @@ I enjoy solving complex engineering problems and building systems that are relia
 
 ---
 
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashrajarnav&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
