@@ -76,6 +76,12 @@ I enjoy solving complex engineering problems and building systems that are relia
 
 ---
 
+### 📊 Detailed Contribution Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashrajarnav&theme=tokyonight" />
+</p>
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
