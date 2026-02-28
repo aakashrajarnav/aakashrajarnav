@@ -29,11 +29,13 @@ I enjoy solving complex engineering problems and building systems that are relia
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend & Architecture
+### 👨‍💻 Development Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
 ### **Cloud & DevOps**
@@ -76,24 +78,24 @@ I enjoy solving complex engineering problems and building systems that are relia
 
 ---
 
-### 📊 Detailed Contribution Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashrajarnav&theme=tokyonight" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashrajarnav&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashrajarnav&theme=tokyonight&hide_border=true" width="800" height="300"/>
 </div>
+
+---
+
+### 📊 Detailed Contribution Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashrajarnav&theme=tokyonight" width="800" height="300"/>
+</p>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashrajarnav&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashrajarnav&theme=tokyo-night&hide_border=true" width="800" height="300"/>
 </div>
 
 ---
