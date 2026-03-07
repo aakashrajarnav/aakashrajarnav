@@ -45,6 +45,7 @@ I enjoy solving complex engineering problems and building systems that are relia
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <br>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 </p>
@@ -56,6 +57,7 @@ I enjoy solving complex engineering problems and building systems that are relia
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opentelemetry.svg" width="40" height="40"/>
+  <br>
   <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fluentbit.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opensearch.svg" width="40" height="40"/>
