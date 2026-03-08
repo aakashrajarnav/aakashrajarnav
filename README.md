@@ -21,7 +21,7 @@ I specialize in:
 - 🛠️ Writing maintainable, production-ready C# code
 
 🎓 **M.Tech in Computer Science – NIT Silchar**  
-🎓 **B.Tech – MCE Motihari**
+🎓 **B.Tech in Computer Science – MCE Motihari**
 
 I enjoy solving complex engineering problems and building systems that are reliable, maintainable, and future-proof.
 
